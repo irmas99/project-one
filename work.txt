@@ -1,0 +1,6 @@
+creat borg status
+
+hello mon ami
+=======
+git checkout -b location2
+
